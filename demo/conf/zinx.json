@@ -1,0 +1,7 @@
+{
+  "Name":"zinx-learning demo",
+  "Host":"127.0.0.1",
+  "TcpPort":8999,
+  "MaxConn":2,
+  "WorkerPoolSize": 2
+}
